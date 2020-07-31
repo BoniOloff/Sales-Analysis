@@ -1,4 +1,4 @@
-# Sales-Analysis-Practice
+# Sales-Analysis
 In this repo I try some data analysis with Python using sales data.
 
 Some analysis in this repo:
